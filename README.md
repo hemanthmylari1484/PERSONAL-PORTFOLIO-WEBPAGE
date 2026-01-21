@@ -11,6 +11,7 @@ DOMAIN: FRONTEND WEB DEVELOPMENT
 DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTHOSH
+
 DESCRIPTION: A Personal Portfolio Webpage is a digital space that represents an individual’s identity, skills, and professional journey in a clear and visually appealing way. It acts as an online introduction, allowing visitors to learn more about who the person is, what they do, and the kind of work they are capable of. In today’s digital world, a portfolio webpage has become an essential tool for students, professionals, freelancers, and creatives to showcase their talents and make a strong first impression.
 
 The main purpose of a personal portfolio webpage is to present information in a simple yet engaging manner. It typically includes sections such as an introduction, about me, skills, projects, resume, and contact details. The homepage often welcomes visitors with a brief overview, giving them a quick idea of the person’s background and interests. This helps visitors connect instantly and encourages them to explore further.
